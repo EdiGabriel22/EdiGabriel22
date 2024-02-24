@@ -1,7 +1,5 @@
 ## 👋 Oi eu sou Edi Gabriel, graduado em Análise e Desenvolvimento de Sistemas. Atualmente trabalhando como desenvolvedor Front-end.
 
-<hr/>
-
 ### 🚀 Minhas Skills
 
 **Linguagens/Frameworks/Bundlers**
