@@ -1,6 +1,4 @@
-## 👋 Oi eu sou Edi Gabriel, graduado em Análise e Desenvolvimento de Sistemas. Atualmente trabalhando como desenvolvedor Front-end.
-
-### 🚀 Minhas Skills
+## Graduado em Análise e Desenvolvimento de Sistemas. Atualmente trabalhando como desenvolvedor Front-end.
 
 **Linguagens/Frameworks/Bundlers**
 
@@ -20,9 +18,7 @@
   ![Jira](https://img.shields.io/badge/Jira-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/>
-
-### 👨🏻‍💻 Social
+**Social**
 
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edigabriel__)
   [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edigabriel22)
